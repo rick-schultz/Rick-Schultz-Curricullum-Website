@@ -26,13 +26,12 @@ hr {
 }
 #course-description-p {
   line-height: 30px;
-  text-justify: distribute-all-lines;
+  text-align: justify;
 }
 li {
   margin: 10px;
 }
 #course-description {
-  width: 80%;
   margin-bottom: 10px;
 }
 a {
@@ -64,4 +63,7 @@ h4 {
   margin-top: 10px !important;
   margin-bottom: 20px !important;
   font-weight: bold;
+}
+.list-group-item {
+  border-left-width: 1px !important;
 }
