@@ -19,13 +19,13 @@
    <a href="">
     <h1 class="site-title">Rick Schultz</h1>
    </a>
+   <a class="menu-toggle mobile-visible">
+    <i class="fa fa-bars"></i>
+   </a>
    <br>
    <p class="site-description">Junior Software Developer</p>
   </div>
 
-  <a class="menu-toggle mobile-visible">
-   <i class="fa fa-bars"></i>
-  </a>
 
  </header>
  <!-- /Header -->
