@@ -11,7 +11,7 @@
  <!-- Header -->
  <header id="site_header" class="header">
   <div class="my-photo">
-   <img src="assets/images/my_photo.jpg" alt="image">
+   <img src="assets/frontend/images/my_photo.jpg" alt="image">
    <div class="mask"></div>
   </div>
 

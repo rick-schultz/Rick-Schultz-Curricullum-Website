@@ -35,7 +35,7 @@
     <li><a class="tip social-button" href="mailto:rick-schultz@hotmail.com" target="_blank" title="E-mail"><i class="fa fa-envelope"></i></a></li>
     <li><a class="tip social-button" href="skype:rick-schultz_1?chat" target="_blank" title="Skype"><i class="fab fa-skype"></i></a></li>
     <li><a class="tip social-button" href="https://www.linkedin.com/in/rick-schultz/?locale=en_US" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a></li>
-    <li><a class="tip social-button" href="assets/files/rick-schultz-english-cv-2021.pdf" target="_blank" title="Download CV"><i class="fas fa-download"></i></a></li>
+    <li><a class="tip social-button" href="assets/frontend/files/rick-schultz-english-cv-2021.pdf" target="_blank" title="Download CV"><i class="fas fa-download"></i></a></li>
    </ul>
    <!-- /Social buttons -->
   </div>

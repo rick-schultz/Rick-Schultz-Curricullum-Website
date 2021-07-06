@@ -10,7 +10,7 @@
     <div class="row mb-3">
       <div class="col-11 col-sm-12 col-md-12 mobile-visible">
         <div class="my-photo-small">
-          <img src="assets/images/photo_small.jpg" alt="image">
+          <img src="assets/frontend/images/photo_small.jpg" alt="image">
         </div>
       </div>
       <div class="col-11 col-sm-12 col-md-6 ">
@@ -43,7 +43,7 @@
         <a class="pt-trigger" href="#developer" data-animation="58" data-goto="3">
           <div class="service-block">
             <div class="service-info">
-              <img src="assets/images/service/management.png" alt="Software Development">
+              <img src="assets/frontend/images/service/management.png" alt="Software Development">
               <h4>Software Development</h4>
             </div>
           </div>
@@ -54,7 +54,7 @@
         <a class="pt-trigger" href="#marketing" data-animation="58" data-goto="3">
           <div class="service-block">
             <div class="service-info">
-              <img src="assets/images/service/ecommerce.png" alt="Digital Marketing">
+              <img src="assets/frontend/images/service/ecommerce.png" alt="Digital Marketing">
               <h4>Digital Marketing</h4>
             </div>
           </div>
@@ -65,7 +65,7 @@
         <a class="pt-trigger" href="#design" data-animation="58" data-goto="3">
           <div class="service-block">
             <div class="service-info">
-              <img src="assets/images/service/web_design.png" alt="Web Design">
+              <img src="assets/frontend/images/service/web_design.png" alt="Web Design">
               <h4>Web Design</h4>
             </div>
           </div>
@@ -76,7 +76,7 @@
         <a class="pt-trigger" href="#administrative" data-animation="58" data-goto="3">
           <div class="service-block">
             <div class="service-info">
-              <img src="assets/images/service/copywrite.png" alt="Administrative Assistant">
+              <img src="assets/frontend/images/service/copywrite.png" alt="Administrative Assistant">
               <h4>Administrative Assistant</h4>
             </div>
           </div>
