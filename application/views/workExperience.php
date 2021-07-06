@@ -12,7 +12,7 @@
          <div class="timeline">
 
             <!-- Single event -->
-            <div class="timeline-event te-primary">
+            <div class="timeline-event te-primary" id="developer">
                <h5 class="event-date">Jun/21 - Current</h5>
                <h4 class="event-name">Junior Software Developer (FullStack)</h4>
                <span class="event-description">iTUDE - Real State Business</span>
@@ -51,7 +51,7 @@
             </div>
 
             <!-- Single event -->
-            <div class="timeline-event te-primary">
+            <div class="timeline-event te-primary" id="design">
                <h5 class="event-date">Sep/19 - Nov/20</h5>
                <h4 class="event-name">Founder and CEO</h4>
                <span class="event-description">EasyCom Marketing Agency</span>
@@ -92,7 +92,7 @@
             </div>
 
             <!-- Single event -->
-            <div class="timeline-event te-primary">
+            <div class="timeline-event te-primary" id="marketing">
                <h5 class="event-date">Aug/18 - Sep/19</h5>
                <h4 class="event-name">Marketing Senior Analyst</h4>
                <span class="event-description">PlayKids</span>
@@ -149,7 +149,7 @@
             </div>
 
             <!-- Single event -->
-            <div class="timeline-event te-primary">
+            <div class="timeline-event te-primary" id="administrative">
                <h5 class="event-date">Dec/16 - Nov/17</h5>
                <h4 class="event-name">Marketing Intern</h4>
                <span class="event-description">Bosch Latin America</span>

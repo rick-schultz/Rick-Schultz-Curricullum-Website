@@ -16,7 +16,7 @@
       <div class="col-11 col-sm-12 col-md-6 ">
         <div class="general-info">
           <h3>I'm a Software Developer and Digital Marketing Expert</h3>
-          <p>Graduated in Business Administration with Marketing Emphasis <small><em>(Bachelor)</em></small> and Information Systems <small><em>(Bachelor)</em></small>.</p>
+          <p>Graduated in Business Administration with Marketing Emphasis <small><em>(Bachelor)</em></small> and studying Information Systems <small><em>(Bachelor)</em></small>.</p>
           <p>I'm one of those persons who prefers to use Excel or Javascript instead of a calculator. I'm also a proud <strong>Multipotentialite</strong>, a person with many interests, many jobs over a lifetime, and many interlocking potentials! With my career T-shapped, I'm now focusing on deepening my knowledge and geting specialized in IT.</p>
         </div>
       </div>
@@ -40,40 +40,49 @@
     </div>
     <div class="row mt-2">
       <div class="col-6 col-sm-6 col-md-3">
-        <div class="service-block">
-          <div class="service-info">
-            <img src="assets/images/service/management.png" alt="Software Development">
-            <h4>Software Development</h4>
+        <a class="pt-trigger" href="#developer" data-animation="58" data-goto="3">
+          <div class="service-block">
+            <div class="service-info">
+              <img src="assets/images/service/management.png" alt="Software Development">
+              <h4>Software Development</h4>
+            </div>
           </div>
-        </div>
+        </a>
       </div>
 
       <div class="col-6 col-sm-6 col-md-3">
-        <div class="service-block">
-          <div class="service-info">
-            <img src="assets/images/service/ecommerce.png" alt="Digital Marketing">
-            <h4>Digital Marketing</h4>
+        <a class="pt-trigger" href="#marketing" data-animation="58" data-goto="3">
+          <div class="service-block">
+            <div class="service-info">
+              <img src="assets/images/service/ecommerce.png" alt="Digital Marketing">
+              <h4>Digital Marketing</h4>
+            </div>
           </div>
-        </div>
+        </a>
       </div>
 
       <div class="col-6 col-sm-6 col-md-3">
-        <div class="service-block">
-          <div class="service-info">
-            <img src="assets/images/service/web_design.png" alt="Web Design">
-            <h4>Web Design</h4>
+        <a class="pt-trigger" href="#design" data-animation="58" data-goto="3">
+          <div class="service-block">
+            <div class="service-info">
+              <img src="assets/images/service/web_design.png" alt="Web Design">
+              <h4>Web Design</h4>
+            </div>
           </div>
-        </div>
+        </a>
       </div>
 
       <div class="col-6 col-sm-6 col-md-3">
-        <div class="service-block">
-          <div class="service-info">
-            <img src="assets/images/service/copywrite.png" alt="Administrative Assistant">
-            <h4>Administrative Assistant</h4>
+        <a class="pt-trigger" href="#administrative" data-animation="58" data-goto="3">
+          <div class="service-block">
+            <div class="service-info">
+              <img src="assets/images/service/copywrite.png" alt="Administrative Assistant">
+              <h4>Administrative Assistant</h4>
+            </div>
           </div>
-        </div>
+        </a>
       </div>
+
     </div>
     <!-- End of Services block -->
   </section>
