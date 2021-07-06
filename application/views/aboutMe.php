@@ -4,7 +4,7 @@
   <section class="pt-page pt-page-1" data-id="about_me">
     <div class="section-title-block">
       <h2 class="section-title">About Me</h2>
-      <h5 class="section-description">Artist, Thinker, Creative</h5>
+      <h5 class="section-description">Multipotentialite, Artist, Thinker, Creative</h5>
     </div>
 
     <div class="row mb-3">
@@ -16,9 +16,8 @@
       <div class="col-sm-12 col-md-6 ">
         <div class="general-info">
           <h3>I'm a Software Developer and Digital Marketing Expert</h3>
-          <p>Graduated in Business Administration with Marketing Emphasis (Bachelor) and Information Systems (Bachelor).</p>
-          <p>Graduated in Business Administration with Marketing Emphasis (Bachelor) and Information Systems (Bachelor).</p>
-          <p>Graduated in Business Administration with Marketing Emphasis (Bachelor) and Information Systems (Bachelor).</p>
+          <p>Graduated in Business Administration with Marketing Emphasis <small><em>(Bachelor)</em></small> and Information Systems <small><em>(Bachelor)</em></small>.</p>
+          <p>I'm one of those persons who prefers to use Excel or Javascript instead of a calculator. I'm also a proud <strong>Multipotentialite</strong>, a person with many interests, many jobs over a lifetime, and many interlocking potentials! With my career T-shapped, I'm now focusing on deepening my knowledge and geting specialized in IT.</p>
         </div>
       </div>
 
@@ -77,6 +76,5 @@
       </div>
     </div>
     <!-- End of Services block -->
-
   </section>
   <!-- End of About Me Subpage -->

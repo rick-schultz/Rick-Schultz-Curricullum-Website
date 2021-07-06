@@ -15,7 +15,7 @@
    <div class="mask"></div>
   </div>
 
-  <div class="site-title-block">
+  <div class="site-title-block sticky-top">
    <a href="">
     <h1 class="site-title">Rick Schultz</h1>
    </a>
