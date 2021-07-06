@@ -7,7 +7,7 @@
 
    <div class="row">
 
-      <div class="col-sm-6 col-md-10 subpage-block">
+      <div class="col-11 col-sm-6 col-md-10 subpage-block">
 
          <div class="timeline">
 
@@ -288,5 +288,7 @@
             </div>
 
          </div>
+      </div>
+   </div>
 </section>
 <!-- End Work Experience Subpage -->

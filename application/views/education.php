@@ -5,7 +5,7 @@
   </div>
 
   <div class="row">
-    <div class="col-sm-6 col-md-9 subpage-block">
+    <div class="col-11 col-sm-6 col-md-9 subpage-block">
       <div class="timeline">
         <!-- Single event -->
         <div class="timeline-event te-primary">

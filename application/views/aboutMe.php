@@ -8,12 +8,12 @@
     </div>
 
     <div class="row mb-3">
-      <div class="col-sm-12 col-md-12 mobile-visible">
+      <div class="col-11 col-sm-12 col-md-12 mobile-visible">
         <div class="my-photo-small">
           <img src="assets/images/photo_small.jpg" alt="image">
         </div>
       </div>
-      <div class="col-sm-12 col-md-6 ">
+      <div class="col-11 col-sm-12 col-md-6 ">
         <div class="general-info">
           <h3>I'm a Software Developer and Digital Marketing Expert</h3>
           <p>Graduated in Business Administration with Marketing Emphasis <small><em>(Bachelor)</em></small> and Information Systems <small><em>(Bachelor)</em></small>.</p>
