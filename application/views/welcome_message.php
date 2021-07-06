@@ -37,7 +37,7 @@
 			<div class="col-xs-12 col-sm-10 col-md-5 text-center">
 				<h1>Rick Schultz</h1>
 				<br />
-				<img src="assets/images/profile-picture.png" alt="Profile Picture" width="200" class="mb-4" />
+				<img src="assets/old/images/profile-picture.png" alt="Profile Picture" width="200" class="mb-4" />
 			</div>
 			<div class="col-xs-12 col-sm-10 col-md-6">
 				<p>
@@ -49,24 +49,24 @@
 				<p><strong>Gender: </strong>Male</p>
 				<p><strong>Nationality: </strong>Brazilian</p>
 				<p>
-					<img src="assets/images/whatsapp-logo.svg" alt="Logo Whatsapp" width="20px" class="me-2" />
+					<img src="assets/old/images/whatsapp-logo.svg" alt="Logo Whatsapp" width="20px" class="me-2" />
 					<strong>Whatsapp: <a style=color:#204392 href="https://api.whatsapp.com/send?phone=5535992315456">(+55) 35 9 9231 5456</a></strong>
 				</p>
 				<p>
-					<img src="assets/images/mail-logo.svg" alt="Logo e-mail" width="20px" class="me-2" />
+					<img src="assets/old/images/mail-logo.svg" alt="Logo e-mail" width="20px" class="me-2" />
 					<strong>E-Mail: <a style=color:#204392 href="mailto:rick-schultz@hotmail.com">rick-schultz@hotmail.com</a></strong>
 				</p>
 				<p>
-					<img src="assets/images/skype-logo.svg" alt="Logo Skype" width="20px" class="me-2" />
+					<img src="assets/old/images/skype-logo.svg" alt="Logo Skype" width="20px" class="me-2" />
 					<strong>Skype: <a style=color:#204392 href="skype:rick-schultz_1?chat">
 							rick-schultz_1</a></strong>
 				</p>
 				<p>
-					<img src="assets/images/linkedin-logo.svg" alt="Logo LinkedIn" width="20px" class="me-2" />
+					<img src="assets/old/images/linkedin-logo.svg" alt="Logo LinkedIn" width="20px" class="me-2" />
 					<strong>LinkedIn: <a style=color:#204392 href="https://www.linkedin.com/in/rick-schultz/?locale=en_US">rick-schultz</a></strong>
 				</p>
 				<p>
-					<img src="assets/images/location-logo.svg" alt="Location logo" width="20px" class="me-2" />
+					<img src="assets/old/images/location-logo.svg" alt="Location logo" width="20px" class="me-2" />
 					<strong>Address: <a style=color:#204392 href="https://goo.gl/maps/T1C6m94bfZvPwRKK6">Poços de Caldas - Brazil</a></strong>
 				</p>
 			</div>

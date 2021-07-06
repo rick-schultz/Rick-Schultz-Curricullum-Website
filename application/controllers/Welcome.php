@@ -6,8 +6,8 @@ class Welcome extends CI_Controller
 
 	public function index()
 	{
-		$this->load->view('layout/header');
+		$this->load->view('layout/oldHeader');
 		$this->load->view('welcome_message');
-		$this->load->view('layout/footer');
+		$this->load->view('layout/oldFooter');
 	}
 }
