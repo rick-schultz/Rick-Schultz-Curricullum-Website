@@ -23,6 +23,11 @@
             <div class="skill-percentage skill-10"></div>
           </div>
 
+        </div>
+      </div>
+      <div class="col-sm-4 col-md-4">
+        <div class="skills-info">
+
           <h4>English</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-10"></div>
@@ -37,6 +42,12 @@
           <div class="skill-container">
             <div class="skill-percentage skill-1"></div>
           </div>
+
+
+        </div>
+      </div>
+      <div class="col-sm-4 col-md-4">
+        <div class="skills-info">
 
           <h4>German</h4>
           <div class="skill-container">
@@ -74,6 +85,11 @@
             <div class="skill-percentage skill-10"></div>
           </div>
 
+        </div>
+      </div>
+      <div class="col-sm-2 col-md-2">
+        <div class="skills-info">
+
           <h4>CSS3</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-10"></div>
@@ -89,6 +105,11 @@
             <div class="skill-percentage skill-1"></div>
           </div>
 
+        </div>
+      </div>
+      <div class="col-sm-2 col-md-2">
+        <div class="skills-info">
+
           <h4>Javascript</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-1"></div>
@@ -103,6 +124,11 @@
           <div class="skill-container">
             <div class="skill-percentage skill-1"></div>
           </div>
+
+        </div>
+      </div>
+      <div class="col-sm-2 col-md-2">
+        <div class="skills-info">
 
           <h4>Git</h4>
           <div class="skill-container">
@@ -120,6 +146,11 @@
             <div class="skill-percentage skill-1"></div>
           </div>
 
+        </div>
+      </div>
+      <div class="col-sm-2 col-md-2">
+        <div class="skills-info">
+
           <h4>Algorithms</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-10"></div>
@@ -136,6 +167,11 @@
             <div class="skill-percentage skill-1"></div>
           </div>
 
+        </div>
+      </div>
+      <div class="col-sm-2 col-md-2">
+        <div class="skills-info">
+
           <h4>Business Intelligence</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-3"></div>
@@ -151,6 +187,11 @@
           <div class="skill-container">
             <div class="skill-percentage skill-3"></div>
           </div>
+
+        </div>
+      </div>
+      <div class="col-sm-2 col-md-2">
+        <div class="skills-info">
 
           <h4>CodeIgniter</h4>
           <div class="skill-container">
@@ -180,6 +221,11 @@
             <div class="skill-percentage skill-10"></div>
           </div>
 
+        </div>
+      </div>
+      <div class="col-sm-4 col-md-4">
+        <div class="skills-info">
+
           <h4>Microsoft Word</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-1"></div>
@@ -195,6 +241,11 @@
             <div class="skill-percentage skill-5"></div>
           </div>
 
+        </div>
+      </div>
+      <div class="col-sm-4 col-md-4">
+        <div class="skills-info">
+
           <h4>SAP R3</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-8"></div>
@@ -209,6 +260,11 @@
           <div class="skill-container">
             <div class="skill-percentage skill-2"></div>
           </div>
+
+        </div>
+      </div>
+      <div class="col-sm-4 col-md-4">
+        <div class="skills-info">
 
           <h4>Graphic Design</h4>
           <div class="skill-container">
@@ -237,6 +293,11 @@
             <div class="skill-percentage skill-10"></div>
           </div>
 
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="skills-info">
+
           <h4>Web Design</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-1"></div>
@@ -251,6 +312,11 @@
           <div class="skill-container">
             <div class="skill-percentage skill-5"></div>
           </div>
+
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="skills-info">
 
           <h4>Social Media Marketing</h4>
           <div class="skill-container">
@@ -268,6 +334,11 @@
             <div class="skill-percentage skill-2"></div>
           </div>
 
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="skills-info">
+
           <h4>Graphic Design</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-2"></div>
@@ -283,6 +354,11 @@
           <div class="skill-container">
             <div class="skill-percentage skill-2"></div>
           </div>
+
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="skills-info">
 
           <h4>Graphic Design</h4>
           <div class="skill-container">
@@ -312,6 +388,11 @@
             <div class="skill-percentage skill-10"></div>
           </div>
 
+        </div>
+      </div>
+      <div class="col-sm-2 col-md-2">
+        <div class="skills-info">
+
           <h4>Leadership</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-10"></div>
@@ -327,6 +408,11 @@
             <div class="skill-percentage skill-1"></div>
           </div>
 
+        </div>
+      </div>
+      <div class="col-sm-2 col-md-2">
+        <div class="skills-info">
+
           <h4>Fast Leraner</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-1"></div>
@@ -341,6 +427,11 @@
           <div class="skill-container">
             <div class="skill-percentage skill-1"></div>
           </div>
+
+        </div>
+      </div>
+      <div class="col-sm-2 col-md-2">
+        <div class="skills-info">
 
           <h4>Entrepreneurship</h4>
           <div class="skill-container">
@@ -358,6 +449,11 @@
             <div class="skill-percentage skill-1"></div>
           </div>
 
+        </div>
+      </div>
+      <div class="col-sm-2 col-md-2">
+        <div class="skills-info">
+
           <h4>Repair of Musical Instruments</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-10"></div>
@@ -374,6 +470,11 @@
             <div class="skill-percentage skill-1"></div>
           </div>
 
+        </div>
+      </div>
+      <div class="col-sm-2 col-md-2">
+        <div class="skills-info">
+
           <h4>Good Listener</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-3"></div>
@@ -389,6 +490,11 @@
           <div class="skill-container">
             <div class="skill-percentage skill-3"></div>
           </div>
+
+        </div>
+      </div>
+      <div class="col-sm-2 col-md-2">
+        <div class="skills-info">
 
           <h4>Code</h4>
           <div class="skill-container">

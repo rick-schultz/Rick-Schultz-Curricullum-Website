@@ -13,7 +13,7 @@
           <img src="assets/images/photo_small.jpg" alt="image">
         </div>
       </div>
-      <div class="col-sm-6 col-md-6 ">
+      <div class="col-sm-12 col-md-6 ">
         <div class="general-info">
           <h3>I'm a Software Developer and Digital Marketing Expert</h3>
           <p>Graduated in Business Administration with Marketing Emphasis (Bachelor) and Information Systems (Bachelor).</p>
@@ -40,7 +40,7 @@
       <h3>Specialties</h3>
     </div>
     <div class="row mt-2">
-      <div class="col-sm-6 col-md-3">
+      <div class="col-6 col-sm-6 col-md-3">
         <div class="service-block">
           <div class="service-info">
             <img src="assets/images/service/management.png" alt="Software Development">
@@ -49,7 +49,7 @@
         </div>
       </div>
 
-      <div class="col-sm-6 col-md-3">
+      <div class="col-6 col-sm-6 col-md-3">
         <div class="service-block">
           <div class="service-info">
             <img src="assets/images/service/ecommerce.png" alt="Digital Marketing">
@@ -58,7 +58,7 @@
         </div>
       </div>
 
-      <div class="col-sm-6 col-md-3">
+      <div class="col-6 col-sm-6 col-md-3">
         <div class="service-block">
           <div class="service-info">
             <img src="assets/images/service/web_design.png" alt="Web Design">
@@ -67,7 +67,7 @@
         </div>
       </div>
 
-      <div class="col-sm-6 col-md-3">
+      <div class="col-6 col-sm-6 col-md-3">
         <div class="service-block">
           <div class="service-info">
             <img src="assets/images/service/copywrite.png" alt="Administrative Assistant">
