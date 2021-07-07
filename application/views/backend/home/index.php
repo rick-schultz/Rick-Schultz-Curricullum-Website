@@ -6,14 +6,14 @@
    <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
    <title>Rick Schultz - Admin Dashboard</title>
    <!-- General CSS Files -->
-   <link rel="stylesheet" href="assets/css/app.min.css">
-   <link rel="stylesheet" href="assets/bundles/bootstrap-social/bootstrap-social.css">
+   <link rel="stylesheet" href="assets/backend/css/app.min.css">
+   <link rel="stylesheet" href="assets/backend/bundles/bootstrap-social/bootstrap-social.css">
    <!-- Template CSS -->
-   <link rel="stylesheet" href="assets/css/style.css">
-   <link rel="stylesheet" href="assets/css/components.css">
+   <link rel="stylesheet" href="assets/backend/css/style.css">
+   <link rel="stylesheet" href="assets/backend/css/components.css">
    <!-- Custom style CSS -->
-   <link rel="stylesheet" href="assets/css/custom.css">
-   <link rel='shortcut icon' type='image/x-icon' href='assets/images/favicon.ico' />
+   <link rel="stylesheet" href="assets/backend/css/custom.css">
+   <link rel='shortcut icon' type='image/x-icon' href='assets/frontend/images/favicon.ico' />
 </head>
 
 <body>
@@ -68,13 +68,13 @@
       </section>
    </div>
    <!-- General JS Scripts -->
-   <script src="assets/js/app.min.js"></script>
+   <script src="assets/backend/js/app.min.js"></script>
    <!-- JS Libraies -->
    <!-- Page Specific JS File -->
    <!-- Template JS File -->
-   <script src="assets/js/scripts.js"></script>
+   <script src="assets/backend/js/scripts.js"></script>
    <!-- Custom JS File -->
-   <script src="assets/js/custom.js"></script>
+   <script src="assets/backend/js/custom.js"></script>
 </body>
 
 </html>
