@@ -55,4 +55,4 @@ $route['translate_uri_dashes'] = FALSE;
 
 $route['cv'] = 'frontend/main';
 $route['welcome'] = 'frontend/welcome';
-$route['restrict'] = 'backend/home';
+$route['restrict'] = 'backend/login';

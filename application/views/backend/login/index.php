@@ -1,24 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-   <meta charset="UTF-8">
-   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-   <title>Rick Schultz - Admin Dashboard</title>
-   <!-- General CSS Files -->
-   <link rel="stylesheet" href="assets/backend/css/app.min.css">
-   <link rel="stylesheet" href="assets/backend/bundles/bootstrap-social/bootstrap-social.css">
-   <!-- Template CSS -->
-   <link rel="stylesheet" href="assets/backend/css/style.css">
-   <link rel="stylesheet" href="assets/backend/css/components.css">
-   <!-- Custom style CSS -->
-   <link rel="stylesheet" href="assets/backend/css/custom.css">
-   <link rel='shortcut icon' type='image/x-icon' href='assets/frontend/images/favicon.ico' />
-</head>
-
-<body>
-   <div class="loader"></div>
-   <div id="app">
       <section class="section">
          <div class="container mt-5">
             <div class="row">
@@ -66,15 +45,3 @@
                   </div>
                </div>
       </section>
-   </div>
-   <!-- General JS Scripts -->
-   <script src="assets/backend/js/app.min.js"></script>
-   <!-- JS Libraies -->
-   <!-- Page Specific JS File -->
-   <!-- Template JS File -->
-   <script src="assets/backend/js/scripts.js"></script>
-   <!-- Custom JS File -->
-   <script src="assets/backend/js/custom.js"></script>
-</body>
-
-</html>

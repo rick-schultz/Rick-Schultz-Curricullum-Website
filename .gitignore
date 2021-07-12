@@ -31,3 +31,4 @@ application/config/database.php
 .gitignore
 application/config/config.php
 application/config/
+application/config/config.php
