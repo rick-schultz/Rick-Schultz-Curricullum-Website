@@ -6,7 +6,26 @@ class Education extends CI_Controller
 
  public function index()
  {
-  $this->load->view('backend/layout/header');
+
+  $data = array(
+   'title' => 'Education',
+   'styles' => array(
+    'bundles/summernote/summernote-bs4.css',
+    'bundles/codemirror/lib/codemirror.css',
+    'bundles/codemirror/theme/duotone-dark.css',
+    'bundles/jquery-selectric/selectric.css'
+   ),
+   'scripts' => array(
+    'bundles/summernote/summernote-bs4.js',
+    'bundles/codemirror/lib/codemirror.js',
+    'bundles/codemirror/mode/javascript/javascript.js',
+    'bundles/jquery-selectric/jquery.selectric.min.js',
+    'bundles/ckeditor/ckeditor.js'
+   ),
+   'users' => $this->ion_auth->users()->result(), //Get all users
+  );
+
+  $this->load->view('backend/layout/header', $data);
   $this->load->view('backend/education/index');
   $this->load->view('backend/layout/footer');
  }
