@@ -28,4 +28,10 @@ class Login extends CI_Controller
    redirect('restrict');
   }
  }
+
+ public function logout()
+ {
+  $this->ion_auth->logout();
+  redirect('restrict');
+ }
 }

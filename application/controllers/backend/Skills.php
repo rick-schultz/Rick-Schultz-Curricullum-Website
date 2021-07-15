@@ -4,6 +4,16 @@ defined('BASEPATH') or exit('No direct script access allowed');
 class Skills extends CI_Controller
 {
 
+ public function __construct()
+ {
+  parent::__construct(); {
+   //Valid session?
+   if (!$this->ion_auth->logged_in()) {
+    redirect('restrict');
+   }
+  }
+ }
+
  public function index()
  {
 
@@ -22,7 +32,7 @@ class Skills extends CI_Controller
     'bundles/jquery-selectric/jquery.selectric.min.js',
     'bundles/ckeditor/ckeditor.js'
    ),
-   'users' => $this->ion_auth->users()->result(), //Get all users
+   //'skills' => $this->core_model->get_all('skills'),
   );
 
   $this->load->view('backend/layout/header', $data);

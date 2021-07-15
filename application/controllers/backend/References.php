@@ -4,6 +4,16 @@ defined('BASEPATH') or exit('No direct script access allowed');
 class References extends CI_Controller
 {
 
+ public function __construct()
+ {
+  parent::__construct(); {
+   //Valid session?
+   if (!$this->ion_auth->logged_in()) {
+    redirect('restrict');
+   }
+  }
+ }
+
  public function index()
  {
 
@@ -22,7 +32,7 @@ class References extends CI_Controller
     'bundles/jquery-selectric/jquery.selectric.min.js',
     'bundles/ckeditor/ckeditor.js'
    ),
-   'users' => $this->ion_auth->users()->result(), //Get all users
+   //'refrences' => $this->core_model->get_all('references'),
   );
 
   $this->load->view('backend/layout/header', $data);

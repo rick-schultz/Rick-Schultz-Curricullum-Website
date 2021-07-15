@@ -26,7 +26,7 @@
         <a href="cv" class="dropdown-item has-icon"> <i class="fas
 										fa-file-alt"></i> Curriculum
           <div class="dropdown-divider"></div>
-          <a href="<?php echo base_url('restrict') ?>" class="dropdown-item has-icon text-danger"> <i class="fas fa-sign-out-alt"></i>
+          <a href="<?php echo base_url('backend/login/logout') ?>" class="dropdown-item has-icon text-danger"> <i class="fas fa-sign-out-alt"></i>
             Logout
           </a>
       </div>

@@ -6,8 +6,12 @@ class Users extends CI_Controller
 
  public function __construct()
  {
-  parent::__construct();
-  //Valid session?
+  parent::__construct(); {
+   //Valid session?
+   if (!$this->ion_auth->logged_in()) {
+    redirect('restrict');
+   }
+  }
  }
 
  public function index()
