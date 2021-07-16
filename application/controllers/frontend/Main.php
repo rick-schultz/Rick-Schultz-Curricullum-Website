@@ -6,7 +6,11 @@ class Main extends CI_Controller
 
  public function index()
  {
-  $this->load->view('frontend/layout/header');
+  $data = array(
+   'courses' => $this->core_model->get_all('courses'),
+  );
+
+  $this->load->view('frontend/layout/header', $data);
   $this->load->view('frontend/bodyHeader');
   $this->load->view('frontend/mainMenu');
   $this->load->view('frontend/aboutMe');
