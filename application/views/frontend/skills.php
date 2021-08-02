@@ -263,16 +263,7 @@
 
         </div>
       </div>
-      <div class="col-sm-4 col-md-4">
-        <div class="skills-info">
 
-          <h4>Graphic Design</h4>
-          <div class="skill-container">
-            <div class="skill-percentage skill-2"></div>
-          </div>
-
-        </div>
-      </div>
     </div>
 
 
@@ -321,48 +312,6 @@
           <h4>Social Media Marketing</h4>
           <div class="skill-container">
             <div class="skill-percentage skill-8"></div>
-          </div>
-
-        </div>
-      </div>
-
-      <div class="col-sm-3 col-md-3">
-        <div class="skills-info">
-
-          <h4>Graphic Design</h4>
-          <div class="skill-container">
-            <div class="skill-percentage skill-2"></div>
-          </div>
-
-        </div>
-      </div>
-      <div class="col-sm-3 col-md-3">
-        <div class="skills-info">
-
-          <h4>Graphic Design</h4>
-          <div class="skill-container">
-            <div class="skill-percentage skill-2"></div>
-          </div>
-
-        </div>
-      </div>
-
-      <div class="col-sm-3 col-md-3">
-        <div class="skills-info">
-
-          <h4>Graphic Design</h4>
-          <div class="skill-container">
-            <div class="skill-percentage skill-2"></div>
-          </div>
-
-        </div>
-      </div>
-      <div class="col-sm-3 col-md-3">
-        <div class="skills-info">
-
-          <h4>Graphic Design</h4>
-          <div class="skill-container">
-            <div class="skill-percentage skill-2"></div>
           </div>
 
         </div>
