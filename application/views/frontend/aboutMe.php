@@ -24,11 +24,11 @@
       <div class="col-sm-6 col-md-6">
         <div class="block end" style="margin-left: 20%">
           <ul class="info-list">
-            <li><span class="title">Name</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="value">Rick Schultz</span></li>
-            <li><span class="title">Gender</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="value">Male</span></li>
-            <li><span class="title">Age</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="value">28</span></li>
-            <li><span class="title">Nationality</span><span class="value">Portuguese/Brazilian</span></li>
-            <li><span class="title">Address</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://goo.gl/maps/T1C6m94bfZvPwRKK6"><span class="value">Poços de Caldas - Brazil</span></a></li>
+            <li><span class="title">Name</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="value">Rick Schultz <small>(Henrique Andrade Schultz)</small></span></li>
+            <li><span class="title">Gender</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="value">Male</span></li>
+            <li><span class="title">Age</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="value">28</span></li>
+            <li><span class="title">Nationality</span>&nbsp;<span class="value">Portuguese/Brazilian</span></li>
+            <li><span class="title">Address</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://goo.gl/maps/T1C6m94bfZvPwRKK6"><span class="value">Poços de Caldas - Brazil</span></a></li>
           </ul>
         </div>
       </div>
