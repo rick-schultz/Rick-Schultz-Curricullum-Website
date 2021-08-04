@@ -21,7 +21,8 @@
                <p><strong>City: </strong>Santa Rita de Caldas</p>
                <p><strong>Country: </strong>Brazil</p>
                <ul class="lists">
-                  <li>Develop Website in <strong>PHP</strong> using <strong>CodeIgniter</strong> Framework.</li>
+                  <li>Develop Website in <strong>Javascript</strong> using <strong>ReactJS and NodeJS</strong>.</li>
+                  <li>Maintain Website in <strong>PHP</strong> using <strong>CodeIgniter</strong> Framework.</li>
                   <li>Design of Front-End and Back-End along with business rules.</li>
                   <li>Ensure the technical feasibility of UI/UX designs.</li>
                   <li>
