@@ -9,20 +9,25 @@
       <div class="timeline">
         <!-- Single event -->
         <div class="timeline-event te-primary">
-          <h5 class="event-date">2024</h5>
-          <h4 class="event-name">Informations Systems Bachelor</h4>
-          <span class="event-description">Anhembi Morumbi University</span>
-          <p>
-            <strong>Adress: </strong>Rua Jaceru, 247 Morumbi, 04705-000 São
-            Paulo (Brazil) <a href="https:/portal.anhembi.br/"></a>
-          </p>
+          <h5 class="event-date">2021 - Present</h5>
+          <h4 class="event-name">Postgraduate Degree - Specialist in Software Engineering</h4>
+          <span class="event-description">Pontifical Catholic University of Minas Gerais</span>
+          <p><strong>Course Description</strong></p>
+          <div id="course-description">
+            <p id="course-description-p">
+              The course aims to develop with the students skills of
+              analysis and use of technologies and methodologies
+              of Software Engineering in order to apply them in the
+              most varied organizational contexts.
+            </p>
+          </div>
         </div>
       </div>
       <div class="timeline">
         <!-- Single event -->
         <div class="timeline-event te-primary">
           <h5 class="event-date">2017</h5>
-          <h4 class="event-name">Business Administration with Marketing Emphasis Bachelor</h4>
+          <h4 class="event-name">Bachelor - Business Administration with Marketing Emphasis</h4>
           <span class="event-description">Anhanguera Educacional University</span>
           <p>
             <strong>Adress: </strong>Rua Luís Otávio, 1313 Taquaral, 13087-018

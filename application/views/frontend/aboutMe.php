@@ -15,8 +15,8 @@
       </div>
       <div class="col-11 col-sm-12 col-md-6 ">
         <div class="general-info">
-          <h3>I'm a Software Developer and Digital Marketing Expert</h3>
-          <p>Graduated in Business Administration with Marketing Emphasis <small><em>(Bachelor)</em></small> and studying Information Systems <small><em>(Bachelor)</em></small>.</p>
+          <h3>I'm a Web/Software Developer and Digital Marketing Expert</h3>
+          <p>Graduated in Business Administration with Marketing Emphasis <small><em>(Bachelor)</em></small> and studying Software Engineering <small><em>(Postgraduate)</em></small>.</p>
           <p>I'm one of those persons who prefers to use Excel or Javascript instead of a calculator. I'm also a proud <strong>Multipotentialite</strong>, a person with many interests, many jobs over a lifetime, and many interlocking potentials! With my career T-shapped, I'm now focusing on deepening my knowledge and getting specialized in IT.</p>
         </div>
       </div>
@@ -27,7 +27,7 @@
             <li><span class="title">Name</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="value">Rick Schultz <small>(Henrique Andrade Schultz)</small></span></li>
             <li><span class="title">Gender</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="value">Male</span></li>
             <li><span class="title">Age</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="value">28</span></li>
-            <li><span class="title">Nationality</span>&nbsp;<span class="value">Portuguese/Brazilian</span></li>
+            <li><span class="title">Nationality</span>&nbsp;<span class="value">Brazilian / Portuguese<small><em> (soon)</em></small></span></li>
             <li><span class="title">Address</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://goo.gl/maps/T1C6m94bfZvPwRKK6"><span class="value">Poços de Caldas - Brazil</span></a></li>
           </ul>
         </div>
