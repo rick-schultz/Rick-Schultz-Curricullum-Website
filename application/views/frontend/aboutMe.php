@@ -17,7 +17,7 @@
         <div class="general-info">
           <h3>I'm a Web/Software Developer and Digital Marketing Expert</h3>
           <p>Graduated in Business Administration with Marketing Emphasis <small><em>(Bachelor)</em></small> and studying Software Engineering <small><em>(Postgraduate)</em></small>.</p>
-          <p>I'm one of those persons who prefers to use Excel or Javascript instead of a calculator. I'm also a proud <strong>Multipotentialite</strong>, a person with many interests, many jobs over a lifetime, and many interlocking potentials! With my career T-shapped, I'm now focusing on deepening my knowledge and getting specialized in IT.</p>
+          <p>I'm one of those persons who prefers to use Excel or Javascript instead of a calculator. I'm also a proud <strong>Multipotentialite</strong>, a person with many interests, many jobs over a lifetime, and many interlocking potentials! With my career T-shaped, I'm now focusing on deepening my knowledge and getting specialized in IT.</p>
         </div>
       </div>
 
