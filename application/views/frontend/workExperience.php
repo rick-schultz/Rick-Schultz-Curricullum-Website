@@ -98,7 +98,7 @@
 				<div class="timeline-event te-primary" id="marketing">
 					<h5 class="event-date">Aug/18 - Sep/19</h5>
 					<h4 class="event-name">IT Assistant and Marketing Assistant</h4>
-					<span class="event-description">PlayKids</span>
+					<span class="event-description">Leiturinha</span>
 					</p>
 					<p><strong>City: </strong>Poços de Caldas</p>
 					<p><strong>Country: </strong>Brazil</p>
@@ -118,7 +118,7 @@
 				<div class="timeline-event te-primary">
 					<h5 class="event-date">Dec/17 - Aug/18</h5>
 					<h4 class="event-name">IT Assistant and Customer Happiness Assistant</h4>
-					<span class="event-description">PlayKids</span>
+					<span class="event-description">Leiturinha</span>
 					</p>
 					<p><strong>City: </strong>Poços de Caldas</p>
 					<p><strong>Country: </strong>Brazil</p>
