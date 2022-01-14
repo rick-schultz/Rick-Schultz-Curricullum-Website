@@ -8,7 +8,7 @@
 			<ul id="nav" class="site-main-menu">
 				<!-- About Me Subpage link -->
 				<li>
-					<a class="pt-trigger" href="#about_me" data-animation="58" data-goto="1">About me</a><!-- href value = data-id without # of .pt-page -->
+					<a class="pt-trigger" href="#about_me" data-animation="58" data-goto="1">About Me</a><!-- href value = data-id without # of .pt-page -->
 				</li>
 				<!-- /About Me Subpage link -->
 				<li>
