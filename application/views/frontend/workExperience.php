@@ -13,7 +13,7 @@
 
 				<!-- Single event -->
 				<div class="timeline-event te-primary" id="developer">
-					<h5 class="event-date">Jun/21 - Current</h5>
+					<h5 class="event-date">Jun/21 - Jan/22</h5>
 					<h4 class="event-name">Junior Software Developer (FullStack)</h4>
 					<span class="event-description">iTUDE - Real State Business</span>
 					</p>
